@@ -67,11 +67,9 @@ Meme_Generator/
 
 ## 📸 Preview
 
-> _You can insert a screenshot or recording here by uploading it to the repo and linking it:_
-
-```
-![Meme Generator Screenshot](./preview.png)
-```
+<p align="center">
+  <img src="public/preview.png" alt="Meme Generator Preview" width="500" />
+</p>
 
 ---
 
