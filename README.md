@@ -35,7 +35,7 @@ npm install
 npm start
 ```
 
-Then open [http://localhost:3000](http://localhost:3000) in your browser.
+Then open [http://localhost:3000](http://localhost:5173) in your browser.
 
 ---
 
@@ -88,6 +88,3 @@ If you find a bug or want to contribute ideas, feel free to open an [issue](http
 ---
 
 ```
-
-Just paste this directly into your `README.md` file in the root of your project ✅  
-Let me know if you’d like a deployed badge or screenshot added!
