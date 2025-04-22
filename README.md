@@ -68,7 +68,7 @@ Meme_Generator/
 ## 📸 Preview
 
 <p align="center">
-  <img src="public/preview.png" alt="Meme Generator Preview" width="500" />
+  <img src="public/meme.png" alt="Meme Generator Preview" width="500" />
 </p>
 
 ---
