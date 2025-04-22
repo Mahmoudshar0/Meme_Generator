@@ -84,7 +84,3 @@ Made with 💻 by [Mahmoud Alsoudy](https://github.com/Mahmoudshar0)
 ## 📬 Feedback or Suggestions?
 
 If you find a bug or want to contribute ideas, feel free to open an [issue](https://github.com/Mahmoudshar0/Meme_Generator/issues) or pull request!
-
----
-
-```
