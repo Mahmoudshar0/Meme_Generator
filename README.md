@@ -1,6 +1,3 @@
-Of course! Here's your complete **`README.md`** content in proper Markdown format for the [Meme_Generator](https://github.com/Mahmoudshar0/Meme_Generator) project:
-
-```md
 # 🖼️ Meme Generator
 
 A simple and fun web app built with **React** that lets users create custom memes using popular templates fetched from the [Imgflip Meme API](https://api.imgflip.com/).
